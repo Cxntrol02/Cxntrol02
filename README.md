@@ -1,17 +1,65 @@
-# Hi, Welcome to my Github Profile! 👋
+# 👋 Hey, I'm cxntrol
 
-## Information:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full-Stack+Developer;Building+Cool+Stuff;Always+Learning+New+Things" />
+</p>
+
+🚀 Full-Stack Developer | 🇬🇧 British | 🏫 Student
+
+---
+
+## 🧠 About Me
+
+* 💻 I love building web apps & experimenting with tech
+* 🏫 13+ & still in school
+* ⚡ Always learning, always improving
 
 ---
 
-- 😇 I'm from the United Kingdom
-- 🖥️ I love IT Tech
-- 📧 You can contact me at cxntrol8@gmail.com
-- 🚀 I'm currently working on loads of projects 👀
+## 🛠️ Tech Stack
 
-## Skills:
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+* JavaScript
+* TypeScript
+* React
+* Node.js
+* Python
+* HTML
+* CSS
+* Tailwind CSS
 
 ---
+
+## 🚀 What I Do
+
+* 🌐 Full-stack web development
+* ⚙️ Backend & APIs
+* 🎨 Modern UI with React & Tailwind
+* 🧪 Trying new ideas & tech
+
+---
+
+## 🏆 Featured Project
+
+* 🔥 **aisba.co.uk** – one of my main projects 👀
+
+---
+
+## 🎮 Outside of Coding
+
+* 🎮 Gaming
+* 🚗 Cars
+* 💡 Building random ideas
+* 🧑‍💻 Coding (obviously 😄)
+
+---
+
+## 📫 Contact Me
+
+* 📧 Email: **[cxntrol8@gmail.com](mailto:cxntrol8@gmail.com)**
+* 💬 Discord: **cxntrol02**
+
+---
+
+## ⚡ Fun Fact
+
+> Started coding young and already building real projects 🚀
