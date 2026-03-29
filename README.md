@@ -1,19 +1,41 @@
-# 👋 Hey, I'm cxntrol
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full-Stack+Developer;Building+Cool+Stuff;Always+Learning+New+Things" />
-</p>
+# 👋 Hey, I'm Cxntrol, also known as William.
 
 🚀 Full-Stack Developer | 🇬🇧 British | 🏫 Student
 
 ---
 
-## 🧠 About Me
+## 🍿 Information
 
 * 💻 I love building web apps & experimenting with tech
 * 🏫 13+ & still in school
 * ⚡ Always learning, always improving
+* 🌐 Full-stack web development
+* ⚙️ Backend & APIs
+* 🎨 Modern UI with React & Tailwind
+* 🧪 Trying new ideas & tech
+* 🔥 **aisba.co.uk** – one of my main projects 👀
+* 📑 **Chief Marketing Officer** @NodebyteHosting (NodeByte LTD)
 
+---
+
+## 💖 My Friends
+* **Connor**
+* **Miller**
+* **Donny**
+* **Tom**
+* **Maxwell** 
+* **Matthew**
+* **Fleyimo**
+* **M1to**
+* **Bailey**
+* **Brody**
+* **Kieran**
+* **Mark**
+* **Jenson** 
+* **Caleb**
+* **Harrison**
+* **Simply**
+  
 ---
 
 ## 🛠️ Tech Stack
@@ -26,21 +48,6 @@
 * HTML
 * CSS
 * Tailwind CSS
-
----
-
-## 🚀 What I Do
-
-* 🌐 Full-stack web development
-* ⚙️ Backend & APIs
-* 🎨 Modern UI with React & Tailwind
-* 🧪 Trying new ideas & tech
-
----
-
-## 🏆 Featured Project
-
-* 🔥 **aisba.co.uk** – one of my main projects 👀
 
 ---
 
