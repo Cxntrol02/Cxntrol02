@@ -14,7 +14,6 @@
 * 🎨 Modern UI with React & Tailwind
 * 🧪 Trying new ideas & tech
 * 🔥 **aisba.co.uk** – one of my main projects 👀
-* 📑 **Chief Marketing Officer** @NodebyteHosting (NodeByte LTD)
 
 ---
 
