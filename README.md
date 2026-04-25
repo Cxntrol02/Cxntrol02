@@ -47,6 +47,7 @@
 * HTML
 * CSS
 * Tailwind CSS
+* LUA
 
 ---
 
