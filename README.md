@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Cxntrol, also known as William.
 
-🚀 Full-Stack Developer | 🇬🇧 British | 🏫 Student
+🚀 Semi-Stack Developer | 🇬🇧 British | 🏫 Student
 
 ---
 
