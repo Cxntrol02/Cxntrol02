@@ -68,7 +68,7 @@ const william = {
 
 ### 🔥 AISBA
 
-One of my main projects — a place where I build and experiment with ideas, web systems, and tools.
+One of my main projects.
 
 [![Website](https://img.shields.io/badge/View_Project-aisba.co.uk-2563EB?style=for-the-badge\&logo=vercel\&logoColor=white)](https://aisba.co.uk)
 
