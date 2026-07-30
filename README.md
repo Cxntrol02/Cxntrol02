@@ -27,4 +27,3 @@ Full-Stack Developer from the UK, currently in education.
 
 [Github](https://github.com/Cxntrol)
 [Discord](https://discord.com/users/259748906378723329)
-[Email](cxntrol8@gmail.com)
