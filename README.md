@@ -1,49 +1,21 @@
-# Hi, I'm William 👋
+<h1 align="center">Hi, I'm William 👋</h1> <h3 align="center">Self-taught developer based in the United Kingdom</h3> <p align="center"> <a href="https://williamsdevelopment.xyz"><img src="https://img.shields.io/badge/Portfolio-williamsdevelopment.xyz-111827?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a> <a href="https://github.com/Cxntrol02"><img src="https://img.shields.io/badge/GitHub-Cxntrol02-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> <a href="mailto:hello@williamsdevelopment.xyz"><img src="https://img.shields.io/badge/Email-Contact%20me-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> </p>
+🧑‍💻 About Me
 
-### Self-taught developer based in the United Kingdom
+I'm a self-taught developer who enjoys coding, I am currently still in school while learning and creating amazing projects.
 
-## About Me
+🌐 Building websites and web apps
+🤖 Creating Discord bots
+📱 Developing apps with Swift and SwiftUI
+🌱 Always learning something new
+🛠️ Languages & Technologies
+Languages
+<p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=js,ts,py,lua,ruby,cpp,cs,swift,bash,powershell&perline=10" alt="JavaScript, TypeScript, Python, Lua, Ruby, C++, C#, Swift, Bash, PowerShell" /> </a> </p>
+Frontend & Frameworks
+<p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vite,tailwind&perline=10" alt="HTML, CSS, React, Next.js, Vite, Tailwind CSS" /> </a> </p>
+Backend, Databases & Tools
+<p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=nodejs,discordjs,postgres,prisma,docker&perline=10" alt="Node.js, Discord.js, SQL (PostgreSQL), Prisma, Docker" /> </a> </p>
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Cxntrol02&show_icons=true&theme=tokyonight&hide_border=true" alt="William's GitHub statistics" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cxntrol02&layout=compact&theme=tokyonight&hide_border=true" alt="William's most-used languages on GitHub" height="165" /> </p>
+📫 Get in Touch
 
-I'm a self-taught developer who enjoys turning ideas into useful digital experiences. I work across web development, Discord bots, and community-focused projects, and I'm always exploring new technologies and finding ways to improve my skills.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-williamsdevelopment.xyz-111827?style=for-the-badge&logo=firefox&logoColor=white)](https://williamsdevelopment.xyz)
-[![GitHub](https://img.shields.io/badge/GitHub-Cxntrol02-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cxntrol02)
-[![Email](https://img.shields.io/badge/Email-Contact%20me-111827?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@williamsdevelopment.xyz)
-
-## Languages and technologies
-
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=111827)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
-
-**Web, backend, and tools**
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-663399?style=flat&logo=css&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=flat&logo=discord&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cxntrol02&show_icons=true&theme=tokyonight&hide_border=true" alt="William's GitHub statistics" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cxntrol02&layout=compact&theme=tokyonight&hide_border=true" alt="William's most-used languages on GitHub" height="165" />
-</p>
-
-## Get in touch
-
-Have a project idea or want to connect? Visit my [portfolio](https://williamsdevelopment.xyz)
-or [send me an email](mailto:hello@williamsdevelopment.xyz).
+Have a project idea or want to connect? Visit my portfolio or send me an email.
