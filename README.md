@@ -18,4 +18,4 @@ Backend, Databases & Tools
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Cxntrol02&show_icons=true&theme=tokyonight&hide_border=true" alt="William's GitHub statistics" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cxntrol02&layout=compact&theme=tokyonight&hide_border=true" alt="William's most-used languages on GitHub" height="165" /> </p>
 📫 Get in Touch
 
-Have a project idea or want to connect? Visit my portfolio or send me an email.
+Have a project idea or want to connect? Visit my [portfolio](https://williamsdevlopment.xyz) or send me an [email](mailto:hi@williamsdevelopment.xyz).
